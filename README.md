@@ -1,2 +1,7 @@
 # Programming-Hero-14-Days-Bootcamp-task
-Here are the assignments for Programming Hero's 14-day free bootcamp.
+Here are the assignments for Programming Hero's 14-day free boot camp.
+##এইখানে প্রোগ্রামিং হিরো ফ্রি ১৪ দিন বুটক্যাম্প এর সেকশন -১ এর এসাইনমেন্ট গুলো আপলোড কর হয়েছে 
+- এইখানে শুধুমাত্র HTML ও CSS ব্যবহার করা হয়েছে
+- রেস্পন্সিভ এর জন্য ফ্লেক্স ও গ্রিড ব্যবহার করা হয়েছে
+- ল্যাপটপ , ট্যাবলেট , ও মোবাইল এর জন্য রেস্পন্সিভ করার জন্য আমি মিডিয়া কুয়েরি ব্যবহার করা হয়েছে
+- ###যদি কোনো ভুল থাকে আমাকে দেখিয়ে দেওয়ার জন্য অনুরোধ রইলো 
